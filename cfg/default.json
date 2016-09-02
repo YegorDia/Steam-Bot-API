@@ -1,0 +1,13 @@
+{
+  "ALLOW_IPS": ["127.0.0.1", "localhost"],
+  "ACCESS_TOKEN": "token",
+  "APP_SECRET": "secret!",
+  "REDIS_HOST": "localhost",
+  "REDIS_PORT": 6379,
+  "REDIS_PASSWORD": null,
+  "REDIS_DB": 2,
+  "CELERY_BROKER_URL": "redis://localhost:6379/2",
+  "CELERY_RESULT_BACKEND": "redis://localhost:6379/2",
+  "CRYPTO_SALT": "SALTsaltSALTsaltSALTsaltSALTsalt",
+  "SERVICE_HOST": "127.0.0.1:8000"
+}

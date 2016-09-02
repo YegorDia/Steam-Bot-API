@@ -1,0 +1,3 @@
+[submodule "steam_bot"]
+	path = steam_bot
+	url = https://github.com/YegorDia/Steam-Trade-Bot.git

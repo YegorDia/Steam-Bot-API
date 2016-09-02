@@ -1,0 +1,17 @@
+*.pyc
+*.log
+*.zip
+*.rar
+*.cookie
+*-cache.json
+celerybeat*
+
+.idea/
+build/
+files/
+log/
+cookie/
+utils/
+start_celery.bat
+
+cfg/deploy.json

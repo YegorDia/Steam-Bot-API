@@ -1,0 +1,6 @@
+flask==0.10.1
+flask-login==0.2.7
+jinja2==2.7.1
+pymongo==2.5.2
+redis
+celery
